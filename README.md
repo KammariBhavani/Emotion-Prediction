@@ -69,12 +69,17 @@ One-hot encoded categorical features
 Combined all features using hstack
 
 🤖 Models Used
+
 Emotion Prediction
+
 Model: Random Forest Classifier
+
 Output: Predicted emotional state
 
 Intensity Prediction
+
 Model: Random Forest Regressor
+
 Output: Predicted intensity score
 
 🧠 Decision Engine
@@ -140,7 +145,7 @@ Emotion-Prediction/
 Combines NLP and structured data
 Handles real-world messy inputs
 Focuses on decision-making, not just prediction
-Fully local implementation (no external APIs)
+
 
 Future Improvements
 
